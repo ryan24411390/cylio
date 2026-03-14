@@ -1,0 +1,15 @@
+{
+  "name": "cylio-website",
+  "version": "1.0.0",
+  "description": "Cylio LLC official website — cylio.io",
+  "private": true,
+  "scripts": {
+    "dev": "node server.js",
+    "test": "npx playwright test tests/",
+    "audit": "node scripts/audit-external-requests.js",
+    "install-browsers": "npx playwright install chromium"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.45.0"
+  }
+}
