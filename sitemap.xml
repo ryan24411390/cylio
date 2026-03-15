@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://cylio.io/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://cylio.io/</loc><lastmod>2026-03-14</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
   <url><loc>https://cylio.io/about-us/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://cylio.io/contact-us/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://cylio.io/portfolio/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://cylio.io/careers/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://cylio.io/legal/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://cylio.io/privacy-policy/</loc><lastmod>2026-03-13</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://cylio.io/terms-of-service/</loc><lastmod>2026-03-13</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://cylio.io/refund-policy/</loc><lastmod>2026-03-13</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://cylio.io/privacy-policy/</loc><lastmod>2026-03-14</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://cylio.io/terms-of-service/</loc><lastmod>2026-03-14</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://cylio.io/refund-policy/</loc><lastmod>2026-03-14</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
   <url><loc>https://cylio.io/cancellation-policy/</loc><lastmod>2026-03-13</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://cylio.io/billing-policy/</loc><lastmod>2026-03-13</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://cylio.io/billing-policy/</loc><lastmod>2026-03-14</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
   <url><loc>https://cylio.io/acceptable-use-policy/</loc><lastmod>2026-03-13</lastmod><changefreq>yearly</changefreq><priority>0.4</priority></url>
   <url><loc>https://cylio.io/cookie-policy/</loc><lastmod>2026-03-13</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
   <url><loc>https://cylio.io/disclaimer/</loc><lastmod>2026-03-13</lastmod><changefreq>yearly</changefreq><priority>0.4</priority></url>
@@ -23,6 +22,7 @@
   <url><loc>https://cylio.io/dmca/</loc><lastmod>2026-03-13</lastmod><changefreq>yearly</changefreq><priority>0.4</priority></url>
   <url><loc>https://cylio.io/security/</loc><lastmod>2026-03-13</lastmod><changefreq>yearly</changefreq><priority>0.4</priority></url>
   <url><loc>https://cylio.io/communication-policy/</loc><lastmod>2026-03-13</lastmod><changefreq>yearly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://cylio.io/blog/</loc><lastmod>2026-03-15</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://cylio.io/top-web-design-agencies-worldwide-2026/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://cylio.io/top-web-design-agencies-canada-2026/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://cylio.io/canadas-top-graphic-design-agencies-to-know-in-2026/</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
